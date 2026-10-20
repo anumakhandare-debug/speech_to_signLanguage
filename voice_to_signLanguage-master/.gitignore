@@ -1,7 +1,10 @@
 node_modules/
-jars/ 
 __pycache__/
-trim.py
-sizetest.py
-map.py
-.vscode/ 
+*.py[cod]
+.env
+.venv/
+venv/
+tempCodeRunnerFile.py
+
+jars/
+.vscode/
